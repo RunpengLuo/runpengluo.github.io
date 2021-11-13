@@ -2,14 +2,14 @@
 
 I'm currently an undergraduate student at [The Australian National University](http://www.anu.edu.au).
 
-### Table of Contents
+<!-- ### Table of Contents
 - [About Me](#about-me)
   - [Table of Contents](#table-of-contents)
   - [News](#news)
   - [Research](#research)
   - [Education](#education)
   - [Teaching Experience](#teaching-experience)
-  - [Contact](#contact)
+  - [Contact](#contact) -->
 
 ### News
 

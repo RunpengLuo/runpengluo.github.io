@@ -25,7 +25,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 The Australian National University (2020-, Canberra, ACT, Australia)
 
-- Bachelor of Advanced Computing (Research & Development)(Honours)
+- Bachelor of Advanced Computing (Research & Development) (Honours)
 - High distincation on average
 - Specialisation: System and Architecture
 

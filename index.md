@@ -1,4 +1,4 @@
-## About Me
+<!-- ## About Me -->
 
 I'm currently an undergraduate student at [The Australian National University](http://www.anu.edu.au).
 
